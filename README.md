@@ -1,5 +1,5 @@
 # QML-MapBox
-The project consists of a simple QML application that uses mapboxes to display maps and create routes to a specific coordinate. 
+This Qt project comprises a straightforward QML application leveraging Mapbox to display maps and generate routes to designated coordinates.
 
 ***
 ![Made with love in Italy](https://madewithlove.now.sh/it?heart=true&colorA=%234d3c6f&template=for-the-badge)
